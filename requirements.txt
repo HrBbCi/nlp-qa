@@ -1,0 +1,8 @@
+torch
+scipy
+sklearn
+transformers
+datasets
+nltk
+tensorboard
+tensorboardX

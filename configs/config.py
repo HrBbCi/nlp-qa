@@ -1,0 +1,6 @@
+MODEL_CHECKPOINT = "/home/kienbt/btkien/vl/qasys/weights/mrc-vn-660"
+MODEL_PRETRAIN = "/home/kienbt/btkien/vl/xlm-roberta-large"
+PATH_TRAINING_CHECKPOINT = "model-bin/test"
+PATH_TRAINING_LOG = "./log"
+PATH_CACHE_LOG = "./model-bin"
+# MODEL_PRETRAIN = "/home/kienbt/btkien/vl/mrc-vietnam"

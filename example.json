@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Toà nhà nào cao nhất Việt Nam?",
+    "context": "Landmark 81 là một toà nhà chọc trời trong tổ hợp dự án Vinhomes Tân Cảng, một dự án có tổng mức đầu tư 40.000 tỷ đồng, do Công ty Cổ phần Đầu tư xây dựng Tân Liên Phát thuộc Vingroup làm chủ đầu tư. Toà tháp cao 81 tầng, hiện tại là toà nhà cao nhất Việt Nam và là toà nhà cao nhất Đông Nam Á từ tháng 3 năm 2018."
+  },
+  {
+    "question": "Kien là chuyên gia về gì ?",
+    "context": "Kien Bui là một người đam mê với lĩnh vực xử lý ảnh. Anh đang công tác tại VNPT."
+  },
+  {
+    "question": "Phạm nhật vượng có bao nhiêu tiền?",
+    "context": "Đứng đầu trong số những người giàu nhất Việt Nam chính là tỷ phú Phạm Nhật Vượng. Từ 2013 đến nay ông luôn nằm trong top những người giàu nhất Việt Nam. Theo thống kê của Forbes vào tháng 4/2023, ông Phạm Nhật Vượng sở hữu khối tài sản ròng có giá trị 4,6 tỉ USD, đứng thứ 586 trên thế giới. "
+  },
+  {
+    "question": "ai giàu nhất việt nam?",
+    "context": "Đứng đầu trong số những người giàu nhất Việt Nam chính là tỷ phú Phạm Nhật Vượng. Từ 2013 đến nay ông luôn nằm trong top những người giàu nhất Việt Nam. Theo thống kê của Forbes vào tháng 4/2023, ông Phạm Nhật Vượng sở hữu khối tài sản ròng có giá trị 4,6 tỉ USD, đứng thứ 586 trên thế giới. "
+  },
+  {
+    "question": "What's the definition of Python?",
+    "context": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries included language due to its comprehensive standard library. Python was conceived in the late 1980s[43] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands"
+  }
+]

@@ -1,0 +1,7 @@
+/weights
+/data-bin/processed
+/data-bin/processed/train.dataset/*.json
+/log
+/model-bin
+/model/__pycache__/*.pyc
+/utils/__pycache__/*.pyc
